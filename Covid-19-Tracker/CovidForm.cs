@@ -454,7 +454,7 @@ namespace Covid_19_Tracker
             StringBuilder help_str = new StringBuilder();
             help_str.Append("Application Name : Covid-19 Tracker\n");
             help_str.Append("Application Version : 1.1\n");
-            help_str.Append("UI Design : CRONOQUILL\n");
+            help_str.Append("UI Version : GUI .NET 5.0\n");
             help_str.Append("Core Application : Haseeb Mir\n");
             help_str.Append("Data Source API/SDK : (JHU & CSBS) With CovidSharp SDK With .NET 4.7\n");
             ShowInfo(help_str.ToString());
