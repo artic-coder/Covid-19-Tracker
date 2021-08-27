@@ -56,15 +56,13 @@ JHU [(our main data provider) no longer provides data for amount of recoveries](
 * RestSharp
 * Newtonsoft.json
 
-## Credits.
-Credits to [CRONOQUILL](https://github.com/CRONOQUILL) for Designing whole UI and give a new to whole application. 
 
 ## Changelogs
 **Version 1.0:**</br>
 * Initial version.</br>
 
 **Version 1.1:**</br>
-* Updated whole application with new and **elegant UI design** changes . Thanks to [CRONOQUILL](https://github.com/CRONOQUILL) for Designing it. :thumbsup:</br>
+* Updated whole application with new and **elegant UI design** changes. :thumbsup:</br>
 * Updated **country** and **province** list.</br>
 * Added new **_country flags_** for almost all countries.</br>
 * Added **Network connection** checker.</br>
